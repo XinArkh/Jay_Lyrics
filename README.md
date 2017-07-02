@@ -1,2 +1,2 @@
 # JayLyrics
-A word frequency analysis in Jay Chou's songs
+A word frequency analysis of Jay Chou's songs
